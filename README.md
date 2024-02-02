@@ -51,3 +51,17 @@ class _MyHomePageState extends ConsumerState<MyHomePage> {
   }
 }
 ```
+
+# Riverpodのmethod
+
+## read 
+その時点での状態を取得
+
+## watch
+状態を監視し続ける。
+リアクティブな値を埋め込むのに使用
+
+
+
+
+
