@@ -1,4 +1,5 @@
 # Riverpodを扱う widget
+floatingActionButton の中などに埋め込める
 
 ## Consumer
 ```sh
