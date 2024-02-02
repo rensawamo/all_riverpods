@@ -1,4 +1,4 @@
-# FutureProvier
+# FutureProvieder
 Future型を取り扱うProvider。データと取得状態を管理するAsyncValueを取得。
 WebAPIやSharedPreferences(key-value-簡易db)など非同期処理で取得されるデータに対して使用
 
