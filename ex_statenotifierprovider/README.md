@@ -3,10 +3,10 @@
 ## 定義
 ```sh
 class CounterNotifier extends StateNotifier<int> {
-CounterNotifier() : super(0);
-void countUp() {
-state++;
-}
+  CounterNotifier() : super(0);
+  void countUp() {
+    state++;
+  }
 }
 
 final _counterProvider =
